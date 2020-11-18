@@ -1,0 +1,12 @@
+name: wine_dashboard
+title: wine_dashboard
+username:
+account: mryap
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3250719
+bundleId: 3872246
+url: https://mryap.shinyapps.io/wine_dashboard/
+when: 1605631985.9292
+asMultiple: FALSE
+asStatic: FALSE

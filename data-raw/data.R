@@ -1,7 +1,12 @@
 #' Wine reviews for 51 countries.
 #'
 #' A dataset containing wine reviews.
-#'
+#’ A dataset containing processed data of wine reviews.
+#’ Missing price values have been filled with the mean price for
+#’ that country
+#’ six observations coming from countries with no wine price were
+#’ deleted.
+#’
 #' @format A data frame with 280901 rows and 4 variables:
 #' \describe{
 #' \item{country}{The country that the wine is from.}
